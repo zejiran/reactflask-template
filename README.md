@@ -1,5 +1,5 @@
 # React + Flask Template
-Serving React with a Flask Backend
+Serving React with a Flask Backend.
 
 ## Instructions
 
