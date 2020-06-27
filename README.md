@@ -1,4 +1,4 @@
-# reactflask-template
+# React + Flask Template
 Serving React with a Flask Backend
 
 ## Instructions
